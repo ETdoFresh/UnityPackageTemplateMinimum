@@ -2,7 +2,7 @@
 
 This is a bare minimum empty Unity Package Template to get started.
 
-_Note - Since there is no .meta files, this repository cannot be linked directly from Unity. When creating yours, please make sure to include meta files._
+_Note - Since there are no .meta files, this repository cannot be linked directly from Unity. When creating yours, please make sure to include meta files._
 
 ## Links
 
