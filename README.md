@@ -6,7 +6,7 @@ _Note - Since there are no .meta files, this repository cannot be linked directl
 
 ## Create Custom Package Steps
 
-1. Download [UnityPackageTemplateMinimum.zip](https://github.com/ETdoFresh/UnityPackageTemplateMinimum/archive/refs/tags/1.0.0.zip)
+1. Download [UnityPackageTemplateMinimum-1.0.0.zip](https://github.com/ETdoFresh/UnityPackageTemplateMinimum/archive/refs/tags/1.0.0.zip)
 2. Unzip into {Project Folder}/Packages/UnityPackageTemplateMinimum
 3. Rename UnityPackageTemplateMinimum to your desired Package Name
 
